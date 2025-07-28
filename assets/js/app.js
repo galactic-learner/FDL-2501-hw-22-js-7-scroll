@@ -1,5 +1,5 @@
 let navBar = document.querySelector("nav");
-let scrollToTop = document.querySelector('.scroll_top');
+let scrollToTop = document.querySelector(".scroll_top");
 
 let currentValue = 0;
 
